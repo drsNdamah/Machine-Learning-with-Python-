@@ -1,4 +1,4 @@
-# Music Genre Prediction
+# Machine Learning - Music Genre Prediction Project
 
 Welcome to my portfolio! This repository showcases a Jupyter notebook that predicts music genre based on age and gender using machine learning techniques with Python. Below you'll find a summary of the project and the key steps involved.
 
